@@ -14,3 +14,4 @@ Variables are nothing but reserved memory locations to store values. This means 
 
 Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables.
 
+.
